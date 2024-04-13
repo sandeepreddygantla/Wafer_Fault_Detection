@@ -51,5 +51,5 @@ Flask (for API creation)
 
   
 ## Contributor <img src="https://media3.giphy.com/media/1wrgDc6j07hAlM7Jml/giphy.gif?cid=790b7611e3af35beee6df1266c31edcabc53abfbbb82854c&rid=giphy.gif&ct=g" width="30">
-[Sandeep]([https://www.linkedin.com/in/subhabrata-nath-181375115](https://www.linkedin.com/in/gantlasandeepreddy/).
+[Sandeep G]([https://www.linkedin.com/in/gantlasandeepreddy/](https://www.linkedin.com/in/gantlasandeepreddy/).
  
